@@ -72,15 +72,6 @@ Once you have installed all the dependencies, you can run the application by exe
 streamlit run app.py
 ```
 
-gnsv-tshirt-inventory-qa/
-│
-├── app.py                     # The main Streamlit application
-├── faiss_store.py              # Code for managing FAISS database
-├── huggingface_embedder.py     # Embedding generation using Hugging Face
-├── sql_database.py             # SQL database connection and query execution
-├── requirements.txt            # List of dependencies
-├── Final_Application.png       # Preview image of the app
-└── README.md                   # This README file
 
 
 ### How It Works
