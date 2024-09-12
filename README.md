@@ -69,7 +69,7 @@ The primary objective of this project is to allow retail business owners or mana
 Once you have installed all the dependencies, you can run the application by executing the following command:
 
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 
