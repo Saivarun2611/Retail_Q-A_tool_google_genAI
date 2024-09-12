@@ -82,6 +82,7 @@ gnsv-tshirt-inventory-qa/
 ├── Final_Application.png       # Preview image of the app
 └── README.md                   # This README file
 
+
 ### How It Works
 1. Google Generative AI for Query Understanding
 The app uses Google Generative AI to convert natural language input into SQL queries. For instance, if a user types "How many Nike S size do we have?", the AI generates a query to retrieve that information from the SQL database.
